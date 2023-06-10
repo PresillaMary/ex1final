@@ -1,5 +1,7 @@
+~~~
 Ex.No:1
 Date:24.3.23
+~~~
 
 # Implementation of Logic Gates using Verilog HDL
 ## Aim
