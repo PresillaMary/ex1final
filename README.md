@@ -123,7 +123,8 @@ Y= A⊕B
 5.	For different input combinations, generate the timing diagram.
 
 ## Program:
-1 ~~~
+1 
+~~~
 module exp1(a,b,andgate,orgate,norgate,notgate,xorgate,xnorgate,nandgate);
 2 input a,b;
 3 output andgate,orgate,norgate,notgate,xorgate,nandgate,xnorgate;
